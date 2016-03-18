@@ -1,0 +1,12 @@
+C:\Users\testes\Desktop\ProductInfo\TesteProduto\TesteProduto.WCF\bin\TesteProduto.WCF.dll.config
+C:\Users\testes\Desktop\ProductInfo\TesteProduto\TesteProduto.WCF\bin\TesteProduto.WCF.dll
+C:\Users\testes\Desktop\ProductInfo\TesteProduto\TesteProduto.WCF\bin\TesteProduto.WCF.pdb
+C:\Users\testes\Desktop\ProductInfo\TesteProduto\TesteProduto.WCF\obj\Debug\TesteProduto.WCF.csprojResolveAssemblyReference.cache
+C:\Users\testes\Desktop\ProductInfo\TesteProduto\TesteProduto.WCF\obj\Debug\TesteProduto.WCF.dll
+C:\Users\testes\Desktop\ProductInfo\TesteProduto\TesteProduto.WCF\obj\Debug\TesteProduto.WCF.pdb
+C:\Users\testes\Desktop\TesteProduto\TesteProduto.WCF\bin\TesteProduto.WCF.dll.config
+C:\Users\testes\Desktop\TesteProduto\TesteProduto.WCF\bin\TesteProduto.WCF.dll
+C:\Users\testes\Desktop\TesteProduto\TesteProduto.WCF\bin\TesteProduto.WCF.pdb
+C:\Users\testes\Desktop\TesteProduto\TesteProduto.WCF\obj\Debug\TesteProduto.WCF.csprojResolveAssemblyReference.cache
+C:\Users\testes\Desktop\TesteProduto\TesteProduto.WCF\obj\Debug\TesteProduto.WCF.dll
+C:\Users\testes\Desktop\TesteProduto\TesteProduto.WCF\obj\Debug\TesteProduto.WCF.pdb
